@@ -1,0 +1,12 @@
+.header {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+p {
+  text-align: center;
+}
